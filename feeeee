@@ -1,4 +1,13 @@
---made with kavo ui also this is bad and only does simple stuff
+Crediting the creator and acknowledging their work while refraining from claiming the code as your own is a clear demonstration that you are not a skid. By recognizing the efforts and expertise of the original developer, you exhibit integrity, respect, and an ethical approach to the coding community. Properly attributing the creator not only upholds the principles of intellectual property but also fosters a collaborative environment where knowledge and innovation can thrive. It shows that you value the contributions of others and are committed to maintaining a culture of transparency and fairness within the coding community. By embracing these principles, you establish yourself as a responsible and knowledgeable individual who understands the importance of giving credit where credit is due.
+
+
+
+
+
+
+
+
+-made with kavo ui also this is bad and only does simple stuff
 
 local Library = loadstring(game:HttpGet("https://raw.githubusercontent.com/xHeptc/Kavo-UI-Library/main/source.lua"))()
 local Window = Library.CreateLib("Burgerhub By notraisincains#5706", "Sentinel")
